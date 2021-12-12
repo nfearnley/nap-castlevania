@@ -1,0 +1,14 @@
+{
+    "bg": "map.png",
+    "grid_size": [4, 4],
+    "grid_offset": [0, 0],
+    "tiles": [
+        "interest.png",
+        "block.png",
+        "button-left.png",
+        "button-right.png"
+    ],
+    "tilemap": [
+        [[0, 0], 0]
+    ]
+}
